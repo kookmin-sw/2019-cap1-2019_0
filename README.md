@@ -12,7 +12,7 @@
 
 **팀페이지 주소** -> https://kookmin-sw.github.io/ `{{자신의 리파지토리 아이디}}`
 
-**예시)** 1조  https://kookmin-sw.github.io/2019-cap-A1
+**예시)** 0조  https://kookmin-sw.github.io/2019-cap1-2019_0
 
 ## readme파일에 아래와 같은 내용들을 추가하세요.
 
